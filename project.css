@@ -1,0 +1,117 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+body
+{
+    background-image:url('https://images.pexels.com/photos/1312067/pexels-photo-1312067.jpeg?auto=compress&cs=tinysrgb&w=1800') ;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.navbar-brand
+{
+    color: aliceblue;
+    font-weight: bold;
+}
+.nav-link
+{
+    font-weight:lighter;
+    color:white;
+    text-align: center;
+}
+
+.active,.nav-link:hover
+{
+color: yellow !important;
+}
+.section1
+{
+    height: 100vh;
+    
+}
+.section3
+{
+    height: fit-content;
+    background-color: #152040;
+    
+}
+.section2
+{
+    width: 100%;
+    height: 60vh;
+    background-image: url('https://images.pexels.com/photos/1430642/pexels-photo-1430642.jpeg?auto=compress&cs=tinysrgb&w=1200');
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.img1
+{
+    background-image: url('https://static.wixstatic.com/media/fc7570_3d943b929f324e8bb9b4925934bf744f~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_393,h_668,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/fc7570_3d943b929f324e8bb9b4925934bf744f~mv2_d_5760_3840_s_4_2.jpg');
+    background-size: cover;
+}
+.img2
+{
+    background-image: url('https://static.wixstatic.com/media/fc7570_043acdee000b4850a234eaf94373483a~mv2_d_3920_3346_s_4_2.jpg/v1/fill/w_394,h_668,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/fc7570_043acdee000b4850a234eaf94373483a~mv2_d_3920_3346_s_4_2.jpg');
+    background-size: cover;
+}
+.img3
+{
+    background-image: url('https://static.wixstatic.com/media/fc7570_45d9b8902e024708b38cba80b28cabab~mv2_d_2848_3769_s_4_2.jpg/v1/fill/w_394,h_668,fp_0.50_0.50,q_80,usm_0.66_1.00_0.01,enc_auto/fc7570_45d9b8902e024708b38cba80b28cabab~mv2_d_2848_3769_s_4_2.jpg');
+    background-size: cover;
+
+}
+
+.row1
+{
+    height: fit-content;
+}
+.col1
+{
+    height: 80vh;
+}
+.section4
+{
+    width: 100%;
+    height: 60vh;
+    background-color:#bdbdbd;
+    color: #152040;
+}
+.section5
+{
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://images.pexels.com/photos/5007939/pexels-photo-5007939.jpeg?auto=compress&cs=tinysrgb&w=1200');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+.section6
+{
+    width: 100%;
+    height: 80vh;                                             
+    background-color: #152040;
+}
+.section7
+{
+    width: 100%;
+    height: fit-content;
+}
+.form-control,.area
+{   border: none;
+    border-bottom: 2px solid black;
+    background: transparent;
+    border-radius: 0px !important;
+}
+.section8
+{
+    height: 20vh;
+    background-color: #152040;
+}
+.btn1
+{
+    background-color:#152040;
+}
